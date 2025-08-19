@@ -36,13 +36,13 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jennaissante00&show_icons=true&theme=tokyonight" alt="GitHub Stats"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=sukisigm69&show_icons=true&theme=tokyonight" alt="GitHub Stats"> 
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jennaissante00&theme=tokyonight" alt="GitHub Streak"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukisigm69&theme=tokyonight" alt="GitHub Streak"> 
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jennaissante00&layout=compact&theme=tokyonight" alt="Most Used Languages"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukisigm69&layout=compact&theme=tokyonight" alt="Most Used Languages"> 
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=jennaissante00&theme=tokyonight&margin-w=15&margin-h=15">
+  <img src="https://github-profile-trophy.vercel.app/?username=sukisigm69&theme=tokyonight&margin-w=15&margin-h=15">
 </p>
 
 ---
