@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.gifer.com/zkw.gif" width="400" height="auto">
+  <img src="https://www.upload.ee/image/18499978/WhatsApp_Image_2025-08-21_at_09.25.03_3cefed0f.jpg" width="400" height="auto">
 </p>
 
 <h1 align="center">Hi, My Name is Abigail! 👋</h1>
