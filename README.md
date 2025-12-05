@@ -2,8 +2,9 @@
   <img src="https://www.upload.ee/image/18499978/WhatsApp_Image_2025-08-21_at_09.25.03_3cefed0f.jpg" width="300" height="auto" style="border-radius: 50%; border: 5px solid #6e44ff; box-shadow: 0 0 20px rgba(110, 68, 255, 0.3);">
 </p>
 
-<h1 align="center">
-  <img src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f44b.svg" width="30" height="30"> 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="auto">
+</p>
   Hi, I'm Abigail! 
   <img src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f44b.svg" width="30" height="30">
 </h1>
