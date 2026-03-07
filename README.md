@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.upload.ee/image/18499978/WhatsApp_Image_2025-08-21_at_09.25.03_3cefed0f.jpg" width="300" height="auto" style="border-radius: 50%; border: 5px solid #6e44ff; box-shadow: 0 0 20px rgba(110, 68, 255, 0.3);">
+  <img src="" width="300" height="auto" style="border-radius: 50%; border: 5px solid #6e44ff; box-shadow: 0 0 20px rgba(110, 68, 255, 0.3);">
 </p>
 
 <h1 align="center">
