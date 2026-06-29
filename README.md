@@ -1,105 +1,149 @@
-
-# 👋 Hi, I'm Abigail Byann
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=6e44ff&text=Abigail%20Byann&fontAlign=50&fontAlignY=38&fontColor=ffffff&desc=Fullstack%20Developer%20|%20UI/UX%20Designer&descAlign=50&descAlignY=60"/>
+  <img src="https://i.pinimg.com/736x/e6/86/01/e68601cafe0605b4a27563cbd8c6b3dd.jpg" width="300" height="auto" style="border-radius: 50%; border: 5px solid #6e44ff; box-shadow: 0 0 20px rgba(110, 68, 255, 0.3);">
 </p>
 
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f44b.svg" width="30" height="30"> 
+  Hi, I'm Abigail! 
+  <img src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f44b.svg" width="30" height="30">
+</h1>
+
+<h3 align="center">
+  <img src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f4da.svg" width="25" height="25"> 
+  Student Developer | 
+  <img src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f3ae.svg" width="25" height="25"> 
+  Gamer | 
+  <img src="" width="25" height="25"> 
+  Anime Enthusiast
+</h3>
+
+<div align="center">
+  <img src="" alt="Typing SVG">
+</div>
+
+---
+
+## 🌟 **About Me**
+
+<p align="justify">
+  Hey there! I'm a passionate 1st-year vocational high school student diving deep into the world of technology and programming. When I'm not coding, you can find me gaming or watching anime! I believe in learning by doing and love turning creative ideas into reality through code.
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f4bb.svg" width="40" height="40"><br>
+      <strong>Currently Learning</strong><br>
+      ReactJs • JavaScript<br>
+      Web Development
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f3ae.svg" width="40" height="40"><br>
+      <strong>Gaming</strong><br>
+      Mobile Legends • Minecraft<br>
+      Roblox • RPGs
+    </td>
+    <td align="center" width="33%">
+      <img src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f3a5.svg" width="40" height="40"><br>
+      <strong>Anime Favorites</strong><br>
+      Bocchi The Rock • One Piece<br>
+      Bleach • Shounen
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ **Tech Stack**
+
+### 💻 **Languages & Tools**
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Student+Developer;Fullstack+Developer;React+Native+Learner;UI%2FUX+Designer;Always+Learning+New+Things"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,git,github,vscode,figma" />
+</p>
+
+### 📚 **Currently Exploring**
+<p align="center">
+  <img src="https://img.shields.io/badge/Game_Development-Unity-000000?style=flat-square&logo=unity&logoColor=white">
+  <img src="https://img.shields.io/badge/Cybersecurity-Beginner-0066CC?style=flat-square&logo=icloud&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-Learning-61DAFB?style=flat-square&logo=react&logoColor=black">
 </p>
 
 ---
 
-## 🚀 About Me
+## 📊 **GitHub Analytics**
 
-```yaml
-Name: Abigail Byann
-Role: Student Developer
-Focus:
-  - Fullstack Development
-  - UI/UX Design
-  - Mobile Development
-Currently Learning:
-  - React
-  - React Native
-  - Express.js
-  - Laravel
-  - Docker
-Projects:
-  - Rakyat Nusantara
-  - La Marcha
-```
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sukisigm69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e44ff&icon_color=6e44ff&text_color=ffffff" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukisigm69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e44ff&text_color=ffffff" alt="Top Languages">
+</div>
 
-## 💻 Tech Stack
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sukisigm69&theme=tokyonight&hide_border=true&background=0d1117&stroke=6e44ff&ring=6e44ff&fire=6e44ff&currStreakLabel=6e44ff" alt="GitHub Streak">
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=sukisigm69&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true&column=4" alt="GitHub Trophies">
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,react,nodejs,express,mysql,git,github,vscode,figma,postman"/>
-</p>
+---
 
-## 🚀 Featured Projects
+## 🎮 **My Gaming Setup & Activities**
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 📰 Rakyat Nusantara | Complaint Reporting App | React Native, Express, MySQL |
-| 👟 La Marcha | Sneaker E-Commerce | React, Express, MySQL |
-| 🎨 UI Collection | UI/UX Designs | Figma |
+<details>
+<summary><b>🎯 Click to see my gaming & anime favorites!</b></summary>
 
-## 📊 GitHub Stats
+### 🎮 **Current Games I Play**
+- **Mobile Legends**: Mage/Support Main
+- **Minecraft**: Creative Builder
+- **Roblox**: Obby & Roleplay Games
+- **Genshin Impact**: Casual Explorer
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sukisigm69&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukisigm69&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+### 📺 **Anime Watchlist**
+- **Currently Watching**: One Piece (Catching up!)
+- **Favorite Genre**: Shounen, Isekai, Slice of Life
+- **Recent Favorite**: Bocchi The Rock 🎸
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sukisigm69&theme=tokyonight&hide_border=true"/>
-</p>
+### 🎨 **Creative Projects**
+- Custom Gaming Wallpapers
+- Anime-themed UI Designs
+- Game Mods & Texture Packs
+</details>
+
+---
+
+## 🤝 **Let's Connect & Collaborate!**
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sukisigm69&theme=tokyo-night&hide_border=true"/>
-</p>
-
-## 🎯 Goals
-
-- [x] HTML & CSS
-- [x] JavaScript
-- [x] React
-- [x] Express
-- [x] MySQL
-- [ ] React Native
-- [ ] Laravel
-- [ ] Docker
-- [ ] Next.js
-
-## 🎮 Interests
-
-- 🎮 Mobile Legends
-- ⛏️ Minecraft
-- 🎲 Roblox
-- 📺 One Piece
-- 🎸 Bocchi The Rock
-
-## 🤝 Connect
-
-<p align="center">
-<a href="https://github.com/sukisigm69"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="mailto:abigailbyann@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://instagram.com/abigailbyann"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  I'm always open to:
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sukisigm69&color=8B5CF6"/>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=sukisigm69.sukisigm69"/>
+  • Collaborating on beginner-friendly projects<br>
+  • Learning together about game development<br>
+  • Discussing anime recommendations<br>
+  • Gaming sessions (casual play!)
+</p>
+
+<div align="center">
+  <a href="https://www.instagram.com/abigailbyann/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40abigailbyann-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:abigailbyann@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-abigailbyann%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/sukisigm69" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-sukisigm69-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sukisigm69&color=6e44ff&style=flat-square" alt="Profile views">
+</div>
+
+<p align="center">
+  <i>"A person grows up when he has to. When he ceases to whine and starts doing things on his own."</i><br>
+  <b>– Gintoki Sakata</b>
 </p>
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100%"/>
 </p>
-
-> "A person grows up when he has to. When he ceases to whine and starts doing things on his own." — Gintoki Sakata
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e44ff&height=120&section=footer"/>
-</p>
-
