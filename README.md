@@ -13,12 +13,12 @@
   Student Developer | 
   <img src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f3ae.svg" width="25" height="25"> 
   Gamer | 
-  <img src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/assets/svg/1f3a5.svg" width="25" height="25"> 
+  <img src="" width="25" height="25"> 
   Anime Enthusiast
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6E44FF&center=true&vCenter=true&width=435&lines=%E2%9C%A8+SMK+Taruna+Bhakti+Student;%F0%9F%92%BB+Aspiring+Full-Stack+Developer;%F0%9F%8E%AE+Game+Development+Learner;%F0%9F%93%9A+Passionate+About+Tech" alt="Typing SVG">
+  <img src="" alt="Typing SVG">
 </div>
 
 ---
